@@ -45,31 +45,3 @@ header ul li {
 .content {
   padding: 0.5em;
 }
-
-.items-wrapper {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  border: var(--divider-color) 1px solid;
-}
-
-.item-container {
-  border-bottom: 1px solid var(--divider-color);
-  display: flex;
-  width: 600px;
-}
-
-.item-info {
-  width: 100%;
-}
-
-.item-header {
-  display: flex;
-  justify-content: space-between;
-}
-
-.item-container img {
-  border-right: 1px solid var(--divider-color);
-  width: 100px;
-  height: 100px;
-}
