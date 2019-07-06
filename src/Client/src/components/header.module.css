@@ -1,0 +1,20 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+header {
+  background-color: var(--main-color);
+  min-height: 1em;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  padding: 0.5em;
+}
+
+header ul li {
+  display: inline;
+  padding: 0 1.4em 0 0;
+  font-size: 0.9em;
+}
